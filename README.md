@@ -4,5 +4,5 @@
 
 ##
 
-Started react long time ago and always felt like somthing is missing.
-Back to basics! lets KNOW React
+Started react long time ago and always felt like somthing is missing. .\
+Back to basics! lets MASTER React
