@@ -1,8 +1,6 @@
 {
   "name": "monsters-rolodex",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://omri1031.github.io/monsters-rolodex",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
