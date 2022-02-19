@@ -1,26 +1,26 @@
 .recipeCard {
-  margin-top: 16px;
-  display: flex;
-  flex-direction: column;
-  background-color: #b3cccc;
-  border: 2px solid grey;
-  padding: 25px;
-  cursor: pointer;
-  justify-content: center;
-  align-items: center;
-  border-radius: 16px;
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    background-color: #b3cccc;
+    border: 2px solid grey;
+    padding: 25px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
 }
 
 .recipeCard__image {
-  height: 200px;
-  width: 200px;
-  object-fit: cover;
-  border-radius: 16px;
-  border: 2px solid grey;
-  margin: 2px 0;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 16px;
+    border: 2px solid grey;
+    margin: 2px 0;
 }
 
 .recipeCard__title {
-  max-width: 200px;
-  text-align: center;
+    max-width: 200px;
+    text-align: center;
 }
