@@ -1,0 +1,12 @@
+.mobile_menu {
+  height: 100vh;
+  position: absolute;
+  margin-top: 8vh;
+  right: 12px;
+  padding: 8px;
+}
+
+.options {
+  display: grid;
+  align-items: center;
+}

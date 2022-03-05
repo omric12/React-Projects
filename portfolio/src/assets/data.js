@@ -1,0 +1,36 @@
+export const projectsList = [
+  {
+    id: 1,
+    title: 'Crown Clothing',
+    description: 'E-commerce store',
+    tags: ['React', 'Firebase', 'Javascript'],
+    img: 'http://free.pagepeeker.com/v2/thumbs.php?size=m&url=https://crown-clothing-4958b.web.app/',
+    link: 'https://crown-clothing-4958b.web.app/',
+    git: 'https://github.com/omric12/React-Projects/tree/master/crown-clothing',
+  },
+  {
+    id: 2,
+    title: 'Monsters Rolodex',
+    description: 'useEffect and useState exercise',
+    tags: ['React', 'Javascript', 'CSS'],
+    img: 'http://free.pagepeeker.com/v2/thumbs.php?size=m&url=https://monsters-rolodex-25bc7.web.app/',
+    link: 'https://monsters-rolodex-25bc7.web.app',
+    git: 'https://github.com/omric12/React-Projects/tree/master/monsters-rolodex',
+  },
+  {
+    id: 3,
+    title: 'Go Nature',
+    description: 'Park managment software',
+    tags: ['Java', 'JavaFX', 'DB'],
+    // img: 'http://free.pagepeeker.com/v2/thumbs.php?size=m&url=https://monsters-rolodex-25bc7.web.app/',
+    git: 'https://github.com/omric12/GoNature-C/tree/master/GoNature%20Client',
+  },
+  {
+    id: 4,
+    title: 'Expense Tracker',
+    description: 'Android application to track your expenses',
+    tags: ['Kotlin', 'Firebase', 'CSS'],
+    // img: 'http://free.pagepeeker.com/v2/thumbs.php?size=m&url=https://monsters-rolodex-25bc7.web.app/',
+    git: 'https://github.com/omric12/expenseTrack',
+  },
+];
