@@ -26,10 +26,4 @@
 firebase.json
 public/index.html
 .firebaserc
-.firebase/hosting.bW9uc3RlcnMtcm9sb2RleFxidWlsZA.cache
-.firebase/hosting.M2Zvb2QtcmVjaXBlXGJ1aWxk.cache
-.firebase/hosting.MndlYXRoZXItd2ViLWFwcFxidWlsZA.cache
-.firebase/hosting.MWZvb2Qtb3JkZXJcYnVpbGQ.cache
-.firebase/hosting.Y3Jvd24tY2xvdGhpbmdcYnVpbGQ.cache
-.firebase/hosting.cG9ydGZvbGlvXGJ1aWxk.cache
-.firebase/hosting.MXJlc3RhdXJhbnRcYnVpbGQ.cache
+.firebase/*
